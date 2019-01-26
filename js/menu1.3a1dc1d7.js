@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["menu1"],{e9bc:function(e,t,n){"use strict";n.r(t);var l=function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",{staticStyle:{padding:"30px"}},[n("el-alert",{attrs:{closable:!1,title:"menu 1"}},[n("router-view")],1)],1)},i=[],u={},a=u,r=n("2877"),s=Object(r["a"])(a,l,i,!1,null,null,null);s.options.__file="index.vue";t["default"]=s.exports}}]);
+//# sourceMappingURL=menu1.3a1dc1d7.js.map
