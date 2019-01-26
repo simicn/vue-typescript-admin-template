@@ -9,7 +9,7 @@
 
 ## Live demo
 
-[Admin Panel](https://armour.github.io/vue-typescript-admin-template)
+[Admin Panel](https://simicn.github.io/vue-typescript-admin-template)
 
 ## Screenshots
 
